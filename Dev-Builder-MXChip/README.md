@@ -13,10 +13,9 @@ In this HOL we focus on developing on a laptop that runs Windows 10, version 190
 ## To build your own IoT Plug and Play enabled device
 You now have installed all development tools to create applications that can run on MXChip devices. In the next steps you are going to develop an IoT hardware product (using the MXChip device) that supports [IoT Plug and Play](https://docs.microsoft.com/en-us/azure/iot-pnp/overview-iot-plug-and-play#develop-an-iot-device-application). In order to build an IoT Plug and Play supported device, you need to install some additional tools:
 - Download and install the latest release of [Azure IoT explorer](https://github.com/Azure/azure-iot-explorer/releases) from the tool's repository page, by selecting the **.msi file** under **Assets** for the most recent update.
+> **Reducing VSCode Debug Messages:** If you get a lot of debug messages in VSCode's output Window, you probably have installed the Arduino IDE version 1.8.10. You can disable these messages by adding `-DDEBUG=false` to the `C:\Program Files (x86)\Arduino\arduino_debug.l4j.ini` file.
 
-**Reducing VSCode Debug Messages:** If you get a lot of debug messages in VSCode's output Window, you probably have installed the Arduino IDE version 1.8.10. You can disable these messages by adding `-DDEBUG=false` to the `C:\Program Files (x86)\Arduino\arduino_debug.l4j.ini` file.
-
-**NOTE:** If you are running into issues when refreshing Arduino Board Manager Packages, try to install a newer version of the Arduino IDE. This is seemingly caused by some old certificates for Java Libraries that are considered insecure, resulting in the Java Libraries not loading.
+> **NOTE:** If you are running into issues when refreshing Arduino Board Manager Packages, try to install a newer version of the Arduino IDE. This is seemingly caused by some old certificates for Java Libraries that are considered insecure, resulting in the Java Libraries not loading.
 
 To build an IoT Plug and Play version of AZ3166 firmware, make sure to select the **MXChip - Microsoft Azure IoT Developer Kit** by Microsoft Developer Version **1.9.11-preview** through the Arduino Board Manager.
 
