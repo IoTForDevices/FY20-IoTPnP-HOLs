@@ -1,1 +1,1 @@
-This folder contains the slides that were used during the IoT Plug and Play bootcamp.
+This folder contains the slides that were used during the IoT Plug and Play bootcamp in Paris on January 8 and 9, 2020.
