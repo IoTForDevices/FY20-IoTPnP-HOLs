@@ -1,0 +1,1 @@
+This folder contains the slides that were used during the IoT Plug and Play bootcamp.
