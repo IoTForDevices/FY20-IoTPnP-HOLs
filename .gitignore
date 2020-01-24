@@ -54,5 +54,6 @@ dkms.conf
 # IoT Plug and Play Generated Code
 Dev-Builder-MXChip/devicemodel/sensorbox_app/Device/.build
 Dev-Builder-MXChip/devicemodel/sensorbox_app/Device/.vscode/c_cpp_properties.json
-Dev-Builder-MXChip-IoTCentral/devicemodel/sensorbox_app/Device/.build
-Dev-Builder-MXChip-IoTCentral/devicemodel/sensorbox_app/Device/.vscode/c_cpp_properties.json
+Dev-Builder-MXChip-IoTCentral/central_app_sim/devkit_device/cmake
+Dev-Builder-MXChip-IoTCentral/central_app/devkit_device/Device/.build
+Dev-Builder-MXChip-IoTCentral/central_app/devkit_device/Device/.vscode/c_cpp_properties.json

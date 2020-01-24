@@ -1,0 +1,14 @@
+{
+    "codeGenExecutionItems": [
+        {
+            "outputDirectory": "c:\\Users\\mstru\\Documents\\central_app_sim\\devkit_device",
+            "capabilityModelFilePath": "c:\\Users\\mstru\\Documents\\central_app_sim\\urn_mxchip_mxchip_iot_devkit_1.capabilitymodel.json",
+            "interfaceDirecoty": "c:\\Users\\mstru\\Documents\\central_app_sim",
+            "projectName": "devkit_device",
+            "languageLabel": "ANSI C",
+            "codeGenProjectType": "CMake_Windows",
+            "deviceSdkReferenceType": "Vcpkg",
+            "deviceConnectionType": "DpsSasKey"
+        }
+    ]
+}

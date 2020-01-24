@@ -1,0 +1,14 @@
+{
+    "codeGenExecutionItems": [
+        {
+            "outputDirectory": "c:\\Source\\Repo\\FY20-IoTPnP-HOLs\\Dev-Builder-MXChip-IoTCentral\\central_app\\devkit_device",
+            "capabilityModelFilePath": "c:\\Source\\Repo\\FY20-IoTPnP-HOLs\\Dev-Builder-MXChip-IoTCentral\\central_app\\urn_mxchip_mxchip_iot_devkit_1.capabilitymodel.json",
+            "interfaceDirecoty": "c:\\Source\\Repo\\FY20-IoTPnP-HOLs\\Dev-Builder-MXChip-IoTCentral\\central_app",
+            "projectName": "devkit_device",
+            "languageLabel": "ANSI C",
+            "codeGenProjectType": "IoTDevKit",
+            "deviceSdkReferenceType": "DevKitSDK",
+            "deviceConnectionType": "DpsSasKey"
+        }
+    ]
+}
